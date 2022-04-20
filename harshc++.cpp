@@ -9,7 +9,8 @@ int i, n, sum = 0;
         // Check for even or not.
         if((i % 2) == 0) {
 
-            sum += i;
+            sum += i;\
+                pandey go back to chutiya
 
         }
     }
